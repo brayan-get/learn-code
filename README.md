@@ -1,2 +1,3 @@
 # learn-code
-¡¡ Recorriendo el fantástico mundo del código !!
+¡¡ going the fantastic world of code !!  
+
